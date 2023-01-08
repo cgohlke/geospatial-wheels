@@ -54,7 +54,9 @@ This release was built from the following source code:
 - [openjpeg](https://github.com/uclouvain/openjpeg) 2.5.0
 - [openssl](https://github.com/openssl/openssl) 1.1.1s
 - [pcre2](https://github.com/PCRE2Project/pcre2.git) 10.42
+- [postgresql](https://ftp.postgresql.org/pub/source/v15.1/postgresql-15.1.tar.gz) 15.1
 - [proj](https://download.osgeo.org/proj/proj-9.1.1.tar.gz) 9.1.1
+- [qhull](https://github.com/qhull/qhull) 4.0.0
 - [snappy](https://github.com/google/snappy) 1.1.9
 - [sqlite](https://github.com/sqlite/sqlite) 3.40.0
 - [uriparser](https://github.com/uriparser/uriparser) 0.9.7
