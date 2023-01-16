@@ -16,6 +16,7 @@ Binary wheels for the following packages are included in the
 [release](https://github.com/cgohlke/geospatial.whl/releases):
 
 - [basemap](https://pypi.org/project/basemap/) 1.3.6
+- [Cartopy](https://pypi.org/project/Cartopy/) 0.21.1
 - [Fiona](https://pypi.org/project/Fiona/) 1.8.22
 - [GDAL](https://pypi.org/project/GDAL/) 3.6.2
 - [netCDF4](https://pypi.org/project/netcdf4/) 1.6.2
