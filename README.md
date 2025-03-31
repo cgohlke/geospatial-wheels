@@ -13,7 +13,7 @@ The wheels can be downloaded from the [Releases](https://github.com/cgohlke/geos
 ## Release 2025.3.30
 
 Binary wheels for the following packages are included in the
-[release](https://github.com/cgohlke/geospatial-wheels/releases/tag/v2025.1.20):
+[release](https://github.com/cgohlke/geospatial-wheels/releases/tag/v2025.3.30):
 
 - [basemap](https://pypi.org/project/basemap/) 1.4.1
 - [Cartopy](https://pypi.org/project/Cartopy/) 0.24.1
