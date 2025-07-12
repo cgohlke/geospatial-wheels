@@ -25,7 +25,7 @@ Binary wheels for the following packages are included in the
 - [pyproj](https://pypi.org/project/pyproj/) 3.7.1
 - [rasterio](https://pypi.org/project/rasterio/) 1.4.3
 - [Rtree](https://pypi.org/project/Rtree/) 1.4.0
-- [shapely](https://pypi.org/project/shapely/) 2.0.7
+- [shapely](https://pypi.org/project/shapely/) 2.1.1
 
 The wheels include the following statically or dynamically linked libraries:
 
